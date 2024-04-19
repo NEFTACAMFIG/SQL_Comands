@@ -8,9 +8,9 @@ This repository contains Python code examples for practicing various SQL command
 
 The repository is organized as follows:
 
-1. `**SQL_Queries.py**`: This Python script contains examples of SQL commands and queries implemented using Python code. Each query is accompanied by comments explaining its purpose and usage.
+1. `SQL_Queries.py`: This Python script contains examples of SQL commands and queries implemented using Python code. Each query is accompanied by comments explaining its purpose and usage.
 
-2. `**data/**`: This directory contains sample datasets used for practicing SQL queries. These datasets are in CSV format and can be easily loaded into a SQL database for experimentation.
+2. `data/`: This directory contains sample datasets used for practicing SQL queries. These datasets are in CSV format and can be easily loaded into a SQL database for experimentation.
 
 ## SQL Commands Covered
 
